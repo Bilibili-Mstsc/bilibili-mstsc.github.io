@@ -10,8 +10,11 @@
 
 B站：https://space.bilibili.com/3493293100894309
 
-邮箱：Outlook：bilibili-mstsc@outlook.com
+邮箱：
 
-     Gmail：bilibilimstsc@gmail.com
+Outlook：bilibili-mstsc@outlook.com
 
-群聊：QQ：以后再说
+Gmail：bilibilimstsc@gmail.com
+
+群聊：
+QQ：以后再说
