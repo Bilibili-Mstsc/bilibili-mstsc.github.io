@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: 远程桌面Mstsc
-zhihu_username: 远程桌面Mstsc
+weibo_username: false
+zhihu_username: false
 github_username: Bilibili-Mstsc
 twitter_username: false
 #facebook_username:  false
