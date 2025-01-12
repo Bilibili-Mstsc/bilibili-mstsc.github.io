@@ -1,5 +1,5 @@
 # Site settings
-title: 博客 | 远程桌面Mstsc
+title: 远程桌面Mstsc
 SEOTitle: 博客 | 远程桌面Mstsc
 header-img: img/home-bg.jpg
 email: bilibili-mstsc@outlook.com
@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: false
-zhihu_username: false
+weibo_username: 远程桌面Mstsc
+zhihu_username: 远程桌面Mstsc
 github_username: Bilibili-Mstsc
 twitter_username: false
 #facebook_username:  false
@@ -67,9 +67,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: new-远程桌面Mstsc.github.io    #仓库名称
-  owner: NEW-远程桌面Mstsc    #github用户名
-  admin: NEW-远程桌面Mstsc
+  repo: bilibili-mstsc.github.io    #仓库名称
+  owner: Bilibili-Mstsc    #github用户名
+  admin: Bilibili-Mstsc
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -84,7 +84,7 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "B站科技区UP主"
+sidebar-about-description: "一位B站科技区UP主"
 sidebar-avatar: /img/head.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags

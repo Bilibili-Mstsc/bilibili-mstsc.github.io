@@ -1,7 +1,7 @@
 /* ===========================================================
  * sw.js
  * ===========================================================
- * Copyright 2024 @远程桌面Mstsc
+ * Copyright 2025 @远程桌面Mstsc
  * Licensed under Apache 2.0
  * service worker scripting
  * ========================================================== */
@@ -31,7 +31,7 @@ const PRECACHE_LIST = [
 ]
 const HOSTNAME_WHITELIST = [
   self.location.hostname,
-  "new-远程桌面Mstsc.github.io",
+  "bilibili-mstsc.github.io",
   "cdnjs.cloudflare.com"
 ]
 const DEPRECATED_CACHES = ['precache-v1', 'runtime', 'main-precache-v1', 'main-runtime']

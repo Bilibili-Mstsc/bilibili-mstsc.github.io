@@ -1,14 +1,14 @@
 {
-    "name": "博客 | SYSTEM-BSOD-ZFS",
-    "title": "博客 | SYSTEM-BSOD-ZFS",
-    "author": "SYSTEM-BSOD-ZFS <SYSTEM-BSOD-ZFS@outlook.com>",
+    "name": "博客 | 远程桌面Mstsc",
+    "title": "博客 | 远程桌面Mstsc",
+    "author": "远程桌面Mstsc <bilibili-mstsc@outlook.com>",
     "version": "1.8.2",
-    "homepage": "new-system-bsod-zfs.github.io",
+    "homepage": "bilibili-mstsc.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/NEW-SYSTEM-BSOD-ZFS/new-system-bsod-zfs.github.io"
+        "url": "https://github.com/Bilibili-Mstsc/bilibili-mstsc.github.io"
     },
-    "bugs": "https://github.com/NEW-SYSTEM-BSOD-ZFS/new-system-bsod-zfs.github.io/issues",
+    "bugs": "https://github.com/Bilibili-Mstsc/bilibili-mstsc.github.io/issues",
     "devDependencies": {
         "grunt": ">=1.3.0",
         "grunt-banner": "~0.2.3",
