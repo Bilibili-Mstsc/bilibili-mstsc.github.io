@@ -19,4 +19,4 @@ QQ：
 群聊：通过链接 https://qm.qq.com/q/l8V3TFoNeE 加群或扫描图片二维码
 
 
-![](https://bilibili-mstsc.github.io/img/QQ.jpg)
+![](https://bilibili-mstsc.github.io/img/qq.jpg)
