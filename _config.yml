@@ -55,7 +55,7 @@ kramdown:
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: Ov23li69iMH27fMIYxK1                            #生成的clientID
-  clientSecret: 0dcc4dbc2bb6b278e8da180f0de0c1aadaeb972    #生成的clientSecret
+  clientSecret: 0dcc4dbc2bb6b278e8da180f0de0c1aadaeb9724    #生成的clientSecret
   repo: bilibili-mstsc.github.io    #仓库名称
   owner: Bilibili-Mstsc    #github用户名
   admin: Bilibili-Mstsc
@@ -78,8 +78,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "ZyperWave(Bilibili)",
-        href: "https://space.bilibili.com/1645147838/"
+        title: "Virtual-Z",
+        href: "https://cn-virtual-z.github.io/"
     },{
         title: "MS-CHS",
         href: "https://ms-chs.github.io/"
