@@ -25,4 +25,4 @@ QQ：
 群聊：通过链接 https://qm.qq.com/q/l8V3TFoNeE 加群
 
 
-![](https://bilibili-mstsc.github.io/img/readme-home.jpg)
+![readme-home](https://github.com/user-attachments/assets/17d9c22b-5196-4e1f-a861-f325af6c8792)
