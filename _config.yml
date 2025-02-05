@@ -1,0 +1,93 @@
+# Site settings
+title: 远程桌面Mstsc
+SEOTitle: 博客 | 远程桌面Mstsc
+header-img: img/home-bg.jpg
+email: bilibili-mstsc@outlook.com
+description: "这里是 @远程桌面Mstsc 的个人博客"
+keyword: "远程桌面Mstsc"
+url: "https://bilibili-mstsc.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/Bilibili-Mstsc/bilibili-mstsc.github.io.git" # you code repository
+
+
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "一位B站科技区UP主"
+sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+
+# SNS settings
+RSS: false
+zhihu_username:   bilibili-mstsc
+github_username:   Bilibili-Mstsc
+
+
+
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate]
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+
+
+
+# 评论系统
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: Ov23li69iMH27fMIYxK1                            #生成的clientID
+  clientSecret: 0dcc4dbc2bb6b278e8da180f0de0c1aadaeb972    #生成的clientSecret
+  repo: bilibili-mstsc.github.io    #仓库名称
+  owner: Bilibili-Mstsc    #github用户名
+  admin: Bilibili-Mstsc
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
+
+
+# Featured Tags
+featured-tags: true                     # 是否使用首页标签
+featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+
+# Friends
+friends: [
+    {
+        title: "Virtual-Z",
+        href: "https://cn-virtual-z.github.io/"
+    },{
+        title: "MS-CHS",
+        href: "https://ms-chs.github.io/"
+    },{
+        title: "SYSTEM_Win11_RE(Bilibili)",
+        href: "https://space.bilibili.com/1531948091/"
+    },{
+        title: "MSPaintBeta(Bilibili)",
+        href: "https://space.bilibili.com/1697970104/"
+    }
+]
