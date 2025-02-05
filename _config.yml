@@ -78,7 +78,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "ZyperWave",
+        title: "ZyperWave(Bilibili)",
         href: "https://space.bilibili.com/1645147838/"
     },{
         title: "MS-CHS",
