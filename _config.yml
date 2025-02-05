@@ -78,8 +78,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Virtual-Z",
-        href: "https://cn-virtual-z.github.io/"
+        title: "ZyperWave",
+        href: "https://space.bilibili.com/1645147838/"
     },{
         title: "MS-CHS",
         href: "https://ms-chs.github.io/"
