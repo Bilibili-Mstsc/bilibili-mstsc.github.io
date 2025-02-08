@@ -8,21 +8,4 @@
 
 如果您发现了此网站的问题，请向我反馈，谢谢。
 
-### 联系
-
-邮箱： 
-
-Outlook：bilibili-mstsc@outlook.com
-
-QQ：bilibili-mstsc@qq.com
-
-![]()
-
-QQ：
-
-个人：3981958190
-
-群聊：通过链接 https://qm.qq.com/q/l8V3TFoNeE 加群
-
-
 ![readme-home](https://github.com/user-attachments/assets/17d9c22b-5196-4e1f-a861-f325af6c8792)
