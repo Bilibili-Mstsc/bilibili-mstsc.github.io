@@ -5,9 +5,9 @@ header-img: img/home-bg.jpg
 email: 3981958190@qq.com
 description: "这里是 @远程桌面Mstsc 的个人博客"
 keyword: "远程桌面Mstsc"
-url: "https://bilibili-mstsc.github.io"          # your host, for absolute URL
+url: "https://liang0512m.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Bilibili-Mstsc/bilibili-mstsc.github.io.git" # you code repository
+github_repo: "https://github.com/Liang0512M/liang0512m.github.io.git" # you code repository
 
 
 
@@ -56,9 +56,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: Ov23li69iMH27fMIYxK1                            #生成的clientID
   clientSecret: 0dcc4dbc2bb6b278e8da180f0de0c1aadaeb9724    #生成的clientSecret
-  repo: bilibili-mstsc.github.io    #仓库名称
-  owner: Bilibili-Mstsc    #github用户名
-  admin: Bilibili-Mstsc
+  repo: liang0512m.github.io    #仓库名称
+  owner: liang0512m    #github用户名
+  admin: liang0512m
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
